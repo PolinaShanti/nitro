@@ -47,3 +47,10 @@ GetBlock’s pricing for Arbitrum starts from \$6 for 500K requests. Also, GetBl
 Chainstack currently supports the Arbitrum Goerli testnet and Arbitrum One Mainnet (including Archive node support).
 
 See [documentation](https://chainstack.com/build-better-with-arbitrum/) for more info.
+
+## [NOWNodes](https://nownodes.io/)
+
+NOWNodes is a blockchain service that provides access to full Nodes and blockbook Explorers via API. A high-quality infrastructure that is quick, cost-effective, and reliable. You can get access to Arbitrum and more than 40+ blockchain networks.
+[documentation](https://documenter.getpostman.com/view/13630829/TVmFkLwy)
+
+
